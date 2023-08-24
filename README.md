@@ -1,4 +1,4 @@
-![Logo](https://res.cloudinary.com/diurvm1bd/image/upload/v1692883333/cntrls-logo-1.png)
+![Logo](https://res.cloudinary.com/diurvm1bd/image/upload/v1692905857/Frame_4_chnydg.png)
 ![Static Badge](https://img.shields.io/badge/working-no-red?logoColor=red)
 ![Static Badge](https://img.shields.io/badge/status-wip-orange?logoColor=red)
 ![Static Badge](https://img.shields.io/badge/web--app-wip-orange?logoColor=red)
